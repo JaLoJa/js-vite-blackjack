@@ -1,0 +1,3 @@
+// import './blackjack/index.js'; por defecto busca el archivo index.js, y asume que es .js,..., no es necesario escribirlo asi,...
+import './blackjack';
+import './style.css';
